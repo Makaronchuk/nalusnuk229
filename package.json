@@ -1,0 +1,24 @@
+{
+  "name": "nalusnuk229",
+  "version": "1.0.0",
+  "description": "nalusnuk229",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Makaronchuk/nalusnuk229.git"
+  },
+  "dependencies": {
+    "nalusnuk228": "1.0.2",
+    "molodozeleno": "1.0.0"
+  },
+
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Makaronchuk/nalusnuk229/issues"
+  },
+  "homepage": "https://github.com/Makaronchuk/nalusnuk229#readme"
+}
